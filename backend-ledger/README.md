@@ -1,2 +1,5 @@
 username=mdsonu2803_db_user
 password=fBPKT4bvHPvvCNZR
+
+Client ID-248356478515-k0s23uv2l00lijf3uu9un5mlq57mc3p2.apps.googleusercontent.com
+Client Secret-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
